@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "discovery-server"
+		},
+		{
+			"path": "gateway"
+		},
+		{
+			"path": "filmes"
+		},
+		{
+			"path": "ingressos"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
